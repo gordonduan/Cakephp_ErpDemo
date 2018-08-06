@@ -1,0 +1,50 @@
+2017-11-17 23:20:08 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 48
+Stack Trace:
+#0 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1030): Cake\Database\Connection->schemaCollection()
+#9 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(982): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(212): Bake\Shell\Task\ModelTask->listAll()
+#11 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(130): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(113): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'categories', 'Categories')
+#13 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(100): Bake\Shell\Task\ModelTask->bake('Categories')
+#14 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\BakeShell.php(259): Bake\Shell\Task\ModelTask->main('Categories')
+#15 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('categories', 0)
+#16 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\BakeShell.php(260): Cake\Collection\Collection->each(Object(Closure))
+#17 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Console\Shell.php(493): Bake\Shell\BakeShell->all('categories')
+#18 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Console\CommandRunner.php(141): Cake\Console\Shell->runCommand(Array, true)
+#19 C:\wamp64\www\erp\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#20 {main}
+
+
+2017-11-17 23:21:22 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 48
+Stack Trace:
+#0 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1030): Cake\Database\Connection->schemaCollection()
+#9 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(982): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(212): Bake\Shell\Task\ModelTask->listAll()
+#11 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(130): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(113): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'categories', 'Categories')
+#13 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(100): Bake\Shell\Task\ModelTask->bake('Categories')
+#14 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\BakeShell.php(259): Bake\Shell\Task\ModelTask->main('Categories')
+#15 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('categories', 0)
+#16 C:\wamp64\www\erp\vendor\cakephp\bake\src\Shell\BakeShell.php(260): Cake\Collection\Collection->each(Object(Closure))
+#17 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Console\Shell.php(493): Bake\Shell\BakeShell->all('categories')
+#18 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Console\CommandRunner.php(141): Cake\Console\Shell->runCommand(Array, true)
+#19 C:\wamp64\www\erp\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#20 {main}
+
+

@@ -1,0 +1,1 @@
+<?php echo $this->Form->postButton("Exporter", array('action' => 'export'), array('class' => 'btn btn-primary')); ?>

@@ -1,0 +1,227 @@
+2018-08-06 14:39:04 Error: 1
+2018-08-06 14:39:04 Error: 134
+2018-08-06 14:39:06 Error: 2
+2018-08-06 14:39:06 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "aaa",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:39:21 Error: 1
+2018-08-06 14:39:21 Error: 134
+2018-08-06 14:39:22 Error: 2
+2018-08-06 14:39:22 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "aaa",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:45:40 Error: 1
+2018-08-06 14:45:40 Error: 134
+2018-08-06 14:45:41 Error: 2
+2018-08-06 14:45:41 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "aaa",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:45:48 Error: 1
+2018-08-06 14:45:48 Error: 134
+2018-08-06 14:45:50 Error: 2
+2018-08-06 14:45:50 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "aaa",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:47:18 Error: 1
+2018-08-06 14:47:18 Error: 134
+2018-08-06 14:47:19 Error: 2
+2018-08-06 14:47:19 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "aaa",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:47:27 Error: 1
+2018-08-06 14:47:27 Error: 134
+2018-08-06 14:47:28 Error: 2
+2018-08-06 14:47:28 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "aaa",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:47:28 Error: 3
+2018-08-06 14:47:28 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "222",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:34:49+00:00"
+}
+2018-08-06 14:47:29 Error: 4
+2018-08-06 14:47:29 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "222",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:47:28+00:00"
+}
+2018-08-06 14:49:43 Error: 1
+2018-08-06 14:49:43 Error: 20
+2018-08-06 14:49:44 Error: 2
+2018-08-06 14:49:44 Error: {
+    "id": 20,
+    "parent_id": 13,
+    "lft": 11,
+    "rght": 12,
+    "name": "Iphone",
+    "description": "Iphone",
+    "created": "2017-11-18T07:51:02+00:00",
+    "modified": "2017-11-18T07:51:02+00:00"
+}
+2018-08-06 14:54:02 Error: 1
+2018-08-06 14:54:02 Error: 134
+2018-08-06 14:54:03 Error: 2
+2018-08-06 14:54:03 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "222",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:47:28+00:00"
+}
+2018-08-06 14:54:23 Error: 1
+2018-08-06 14:54:23 Error: 134
+2018-08-06 14:54:25 Error: 2
+2018-08-06 14:54:25 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "222",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:47:28+00:00"
+}
+2018-08-06 14:54:42 Error: 1
+2018-08-06 14:54:42 Error: 134
+2018-08-06 14:54:44 Error: 2
+2018-08-06 14:54:44 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "222",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:47:28+00:00"
+}
+2018-08-06 14:54:53 Error: 1
+2018-08-06 14:54:53 Error: 134
+2018-08-06 14:54:54 Error: 2
+2018-08-06 14:54:54 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "222",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:47:28+00:00"
+}
+2018-08-06 14:54:54 Error: 3
+2018-08-06 14:54:54 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "111111",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:47:28+00:00"
+}
+2018-08-06 14:54:55 Error: 4
+2018-08-06 14:54:55 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "111111",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:54:55+00:00"
+}
+2018-08-06 14:56:31 Error: 1
+2018-08-06 14:56:31 Error: 134
+2018-08-06 14:56:33 Error: 2
+2018-08-06 14:56:33 Error: {
+    "id": 134,
+    "parent_id": 128,
+    "lft": 18,
+    "rght": 19,
+    "name": "aaa",
+    "description": "111111",
+    "created": "2018-08-06T14:34:49+00:00",
+    "modified": "2018-08-06T14:54:55+00:00"
+}
+2018-08-06 22:09:55 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::loging() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'loging',
+  'prefix' => '',
+  'plugin' => false,
+)
+Request URL: /
+Stack Trace:
+#0 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#1 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#2 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\BaseApplication.php(108): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#3 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#4 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(104): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(95): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 C:\wamp64\www\erp\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 C:\wamp64\www\erp\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 C:\wamp64\www\erp\webroot\index.php(40): Cake\Http\Server->run()
+#15 {main}
+
+
