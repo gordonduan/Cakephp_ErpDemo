@@ -24,7 +24,9 @@
                     <ul>
                         <li>JS framework: jQuery v3.3.1, Bootstrap v3.3.7, AdminLTE app.js v2.4.2</li>
                         <li>CSS framework: Bootstrap v3.3.7</li>
-                        <li>Javascript</li>
+                        <li>Popover: layer v3.1.1</li>
+						<li>Javascript</li>
+						<li>Ajax</li>
                     </ul>
                 </div>
                 <div style="float: left; width: 50%;">
